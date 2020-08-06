@@ -1,0 +1,7 @@
+hosts:
+- example.pl
+- www.example.pl
+- example.com
+- www.example.com
+- google.pl
+name: test
